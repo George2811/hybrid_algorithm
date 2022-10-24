@@ -1,0 +1,15 @@
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/bin/Debug/net6.0/Hybrid_Algorithm
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/bin/Debug/net6.0/Hybrid_Algorithm.deps.json
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/bin/Debug/net6.0/Hybrid_Algorithm.runtimeconfig.json
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/bin/Debug/net6.0/Hybrid_Algorithm.dll
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/bin/Debug/net6.0/ref/Hybrid_Algorithm.dll
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/bin/Debug/net6.0/Hybrid_Algorithm.pdb
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/Hybrid_Algorithm.csproj.AssemblyReference.cache
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/Hybrid_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/Hybrid_Algorithm.AssemblyInfoInputs.cache
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/Hybrid_Algorithm.AssemblyInfo.cs
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/Hybrid_Algorithm.csproj.CoreCompileInputs.cache
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/Hybrid_Algorithm.dll
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/ref/Hybrid_Algorithm.dll
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/Hybrid_Algorithm.pdb
+/media/george/OS/Code/C_projects/Hybrid_Algorithm/obj/Debug/net6.0/Hybrid_Algorithm.genruntimeconfig.cache
